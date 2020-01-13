@@ -34,7 +34,7 @@
 
 测试账号
 
-用户名：admin123  密码：admin123
+用户名：admin123456  密码：admin123456
 
 ### 适合人群
 
@@ -53,3 +53,12 @@ python/django/nginx/mysql/semantic-css/jquery/html
 ### 问题反馈
 
 Email: lovezww2011@gmail.com
+
+
+### 数据库文件
+
+[点击下载](https://net936.oss-cn-hangzhou.aliyuncs.com/net936_1/video_2019-02-22.sql)
+
+### 答谢作者
+
+答谢方式：[点击demo右侧广告](https://v.mypython.me/video/detail/26/)
